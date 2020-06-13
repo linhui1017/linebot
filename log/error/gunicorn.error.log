@@ -1,0 +1,402 @@
+2020-04-25 12:23:14 [5558] [INFO] initialize routes ...
+2020-04-25 12:25:13 [5643] [INFO] initialize routes ...
+2020-04-25 12:26:16 [5686] [INFO] initialize routes ...
+2020-04-25 12:27:46 [5757] [INFO] initialize routes ...
+2020-04-25 12:28:18 [5776] [INFO] initialize routes ...
+2020-04-25 12:28:50 [5819] [INFO] initialize routes ...
+2020-04-25 12:29:12 [5839] [INFO] initialize routes ...
+2020-04-25 12:29:38 [5868] [INFO] initialize routes ...
+2020-04-25 12:30:31 [5902] [INFO] initialize routes ...
+2020-04-25 12:30:31 [5902] [INFO] Starting gunicorn 19.7.1
+2020-04-25 12:30:31 [5902] [INFO] Listening at: http://0.0.0.0:5000 (5902)
+2020-04-25 12:30:31 [5902] [INFO] Using worker: threads
+2020-04-25 12:30:31 [5902] [INFO] Server is ready. Spawning workers
+2020-04-25 12:30:31 [5907] [INFO] Booting worker with pid: 5907
+2020-04-25 12:30:31 [5908] [INFO] Booting worker with pid: 5908
+2020-04-25 12:30:31 [5909] [INFO] Booting worker with pid: 5909
+2020-04-25 12:30:32 [5910] [INFO] Booting worker with pid: 5910
+2020-04-25 12:31:15 [5902] [INFO] Handling signal: int
+2020-04-25 12:31:16 [5907] [INFO] Worker exiting (pid: 5907)
+2020-04-25 12:31:16 [5909] [INFO] Worker exiting (pid: 5909)
+2020-04-25 12:31:16 [5910] [INFO] Worker exiting (pid: 5910)
+2020-04-25 12:31:16 [5908] [INFO] Worker exiting (pid: 5908)
+2020-04-25 12:31:16 [5902] [INFO] Shutting down: Master
+2020-04-25 12:33:23 [6176] [INFO] initialize routes ...
+2020-04-25 12:33:23 [6176] [INFO] Starting gunicorn 19.7.1
+2020-04-25 12:33:23 [6176] [INFO] Listening at: http://0.0.0.0:5000 (6176)
+2020-04-25 12:33:23 [6176] [INFO] Using worker: threads
+2020-04-25 12:33:23 [6176] [INFO] Server is ready. Spawning workers
+2020-04-25 12:33:23 [6181] [INFO] Booting worker with pid: 6181
+2020-04-25 12:33:23 [6182] [INFO] Booting worker with pid: 6182
+2020-04-25 12:33:23 [6184] [INFO] Booting worker with pid: 6184
+2020-04-25 12:33:23 [6185] [INFO] Booting worker with pid: 6185
+2020-04-25 12:35:36 [6176] [INFO] Handling signal: int
+2020-04-25 12:35:36 [6182] [INFO] Worker exiting (pid: 6182)
+2020-04-25 12:35:36 [6181] [INFO] Worker exiting (pid: 6181)
+2020-04-25 12:35:36 [6184] [INFO] Worker exiting (pid: 6184)
+2020-04-25 12:35:36 [6185] [INFO] Worker exiting (pid: 6185)
+2020-04-25 12:35:36 [6176] [INFO] Shutting down: Master
+2020-04-25 12:35:37 [6643] [INFO] initialize routes ...
+2020-04-25 12:35:37 [6643] [INFO] Starting gunicorn 19.7.1
+2020-04-25 12:35:37 [6643] [INFO] Listening at: http://0.0.0.0:5000 (6643)
+2020-04-25 12:35:37 [6643] [INFO] Using worker: threads
+2020-04-25 12:35:37 [6643] [INFO] Server is ready. Spawning workers
+2020-04-25 12:35:37 [6656] [INFO] Booting worker with pid: 6656
+2020-04-25 12:35:37 [6657] [INFO] Booting worker with pid: 6657
+2020-04-25 12:35:37 [6658] [INFO] Booting worker with pid: 6658
+2020-04-25 12:35:37 [6659] [INFO] Booting worker with pid: 6659
+2020-04-25 12:38:16 [6643] [INFO] Handling signal: winch
+2020-04-25 12:38:16 [6643] [INFO] Handling signal: winch
+2020-04-25 12:38:20 [6643] [INFO] Handling signal: winch
+2020-04-25 12:38:20 [6643] [INFO] Handling signal: winch
+2020-04-25 12:38:21 [6643] [INFO] Handling signal: winch
+2020-04-25 12:38:22 [6643] [INFO] Handling signal: winch
+2020-04-25 12:38:22 [6643] [INFO] Handling signal: winch
+2020-04-25 12:38:22 [6643] [INFO] Handling signal: winch
+2020-04-25 12:39:00 [6643] [INFO] Handling signal: int
+2020-04-25 12:39:00 [6656] [INFO] Worker exiting (pid: 6656)
+2020-04-25 12:39:00 [6657] [INFO] Worker exiting (pid: 6657)
+2020-04-25 12:39:00 [6658] [INFO] Worker exiting (pid: 6658)
+2020-04-25 12:39:00 [6659] [INFO] Worker exiting (pid: 6659)
+2020-04-25 12:39:00 [6643] [INFO] Shutting down: Master
+2020-04-27 19:55:41 [2867] [INFO] initialize routes ...
+2020-04-27 19:55:41 [2867] [INFO] Starting gunicorn 19.7.1
+2020-04-27 19:55:41 [2867] [INFO] Listening at: http://0.0.0.0:5000 (2867)
+2020-04-27 19:55:41 [2867] [INFO] Using worker: threads
+2020-04-27 19:55:41 [2867] [INFO] Server is ready. Spawning workers
+2020-04-27 19:55:41 [2872] [INFO] Booting worker with pid: 2872
+2020-04-27 19:55:41 [2873] [INFO] Booting worker with pid: 2873
+2020-04-27 19:55:41 [2874] [INFO] Booting worker with pid: 2874
+2020-04-27 19:55:41 [2875] [INFO] Booting worker with pid: 2875
+2020-04-27 19:59:37 [2867] [INFO] Handling signal: int
+2020-04-27 19:59:37 [2872] [INFO] Worker exiting (pid: 2872)
+2020-04-27 19:59:37 [2873] [INFO] Worker exiting (pid: 2873)
+2020-04-27 19:59:37 [2875] [INFO] Worker exiting (pid: 2875)
+2020-04-27 19:59:37 [2874] [INFO] Worker exiting (pid: 2874)
+2020-04-27 19:59:38 [2867] [INFO] Shutting down: Master
+2020-04-27 19:59:39 [3781] [INFO] initialize routes ...
+2020-04-27 19:59:39 [3781] [INFO] Starting gunicorn 19.7.1
+2020-04-27 19:59:39 [3781] [INFO] Listening at: http://0.0.0.0:5000 (3781)
+2020-04-27 19:59:39 [3781] [INFO] Using worker: threads
+2020-04-27 19:59:39 [3781] [INFO] Server is ready. Spawning workers
+2020-04-27 19:59:39 [3786] [INFO] Booting worker with pid: 3786
+2020-04-27 19:59:39 [3787] [INFO] Booting worker with pid: 3787
+2020-04-27 19:59:39 [3788] [INFO] Booting worker with pid: 3788
+2020-04-27 19:59:39 [3789] [INFO] Booting worker with pid: 3789
+2020-04-27 20:00:22 [3781] [INFO] Handling signal: int
+2020-04-27 20:00:23 [3788] [INFO] Worker exiting (pid: 3788)
+2020-04-27 20:00:23 [3786] [INFO] Worker exiting (pid: 3786)
+2020-04-27 20:00:23 [3789] [INFO] Worker exiting (pid: 3789)
+2020-04-27 20:00:23 [3787] [INFO] Worker exiting (pid: 3787)
+2020-04-27 20:00:23 [3781] [INFO] Shutting down: Master
+2020-04-27 20:00:24 [3890] [INFO] initialize routes ...
+2020-04-27 20:00:24 [3890] [INFO] Starting gunicorn 19.7.1
+2020-04-27 20:00:24 [3890] [INFO] Listening at: http://0.0.0.0:5000 (3890)
+2020-04-27 20:00:24 [3890] [INFO] Using worker: threads
+2020-04-27 20:00:24 [3890] [INFO] Server is ready. Spawning workers
+2020-04-27 20:00:24 [3895] [INFO] Booting worker with pid: 3895
+2020-04-27 20:00:24 [3896] [INFO] Booting worker with pid: 3896
+2020-04-27 20:00:24 [3897] [INFO] Booting worker with pid: 3897
+2020-04-27 20:00:24 [3898] [INFO] Booting worker with pid: 3898
+2020-04-27 20:00:58 [3890] [INFO] Handling signal: int
+2020-04-27 20:00:58 [3897] [INFO] Worker exiting (pid: 3897)
+2020-04-27 20:00:58 [3895] [INFO] Worker exiting (pid: 3895)
+2020-04-27 20:00:58 [3898] [INFO] Worker exiting (pid: 3898)
+2020-04-27 20:00:59 [3890] [INFO] Shutting down: Master
+2020-04-27 20:01:00 [3951] [INFO] initialize routes ...
+2020-04-27 20:01:00 [3951] [INFO] Starting gunicorn 19.7.1
+2020-04-27 20:01:00 [3951] [INFO] Listening at: http://0.0.0.0:5000 (3951)
+2020-04-27 20:01:00 [3951] [INFO] Using worker: threads
+2020-04-27 20:01:00 [3951] [INFO] Server is ready. Spawning workers
+2020-04-27 20:01:00 [3956] [INFO] Booting worker with pid: 3956
+2020-04-27 20:01:00 [3957] [INFO] Booting worker with pid: 3957
+2020-04-27 20:01:00 [3958] [INFO] Booting worker with pid: 3958
+2020-04-27 20:01:00 [3959] [INFO] Booting worker with pid: 3959
+2020-04-27 20:01:23 [3951] [INFO] Handling signal: int
+2020-04-27 20:01:23 [3958] [INFO] Worker exiting (pid: 3958)
+2020-04-27 20:01:23 [3957] [INFO] Worker exiting (pid: 3957)
+2020-04-27 20:01:23 [3959] [INFO] Worker exiting (pid: 3959)
+2020-04-27 20:01:23 [3956] [INFO] Worker exiting (pid: 3956)
+2020-04-27 20:01:24 [3951] [INFO] Shutting down: Master
+2020-04-27 20:01:25 [4027] [INFO] initialize routes ...
+2020-04-27 20:01:25 [4027] [INFO] Starting gunicorn 19.7.1
+2020-04-27 20:01:25 [4027] [INFO] Listening at: http://0.0.0.0:5000 (4027)
+2020-04-27 20:01:25 [4027] [INFO] Using worker: threads
+2020-04-27 20:01:25 [4027] [INFO] Server is ready. Spawning workers
+2020-04-27 20:01:25 [4032] [INFO] Booting worker with pid: 4032
+2020-04-27 20:01:25 [4033] [INFO] Booting worker with pid: 4033
+2020-04-27 20:01:25 [4034] [INFO] Booting worker with pid: 4034
+2020-04-27 20:01:25 [4035] [INFO] Booting worker with pid: 4035
+2020-04-27 20:06:04 [4027] [INFO] Handling signal: int
+2020-04-27 20:06:04 [4032] [INFO] Worker exiting (pid: 4032)
+2020-04-27 20:06:04 [4035] [INFO] Worker exiting (pid: 4035)
+2020-04-27 20:06:04 [4033] [INFO] Worker exiting (pid: 4033)
+2020-04-27 20:06:04 [4027] [INFO] Shutting down: Master
+2020-04-27 20:06:05 [4228] [INFO] initialize routes ...
+2020-04-27 20:06:34 [4292] [INFO] initialize routes ...
+2020-04-27 20:06:34 [4292] [INFO] Starting gunicorn 19.7.1
+2020-04-27 20:06:34 [4292] [INFO] Listening at: http://0.0.0.0:5000 (4292)
+2020-04-27 20:06:34 [4292] [INFO] Using worker: threads
+2020-04-27 20:06:34 [4292] [INFO] Server is ready. Spawning workers
+2020-04-27 20:06:34 [4297] [INFO] Booting worker with pid: 4297
+2020-04-27 20:06:34 [4298] [INFO] Booting worker with pid: 4298
+2020-04-27 20:06:34 [4299] [INFO] Booting worker with pid: 4299
+2020-04-27 20:06:34 [4300] [INFO] Booting worker with pid: 4300
+2020-04-27 20:07:25 [4292] [INFO] Handling signal: int
+2020-04-27 20:07:25 [4300] [INFO] Worker exiting (pid: 4300)
+2020-04-27 20:07:25 [4297] [INFO] Worker exiting (pid: 4297)
+2020-04-27 20:07:25 [4298] [INFO] Worker exiting (pid: 4298)
+2020-04-27 20:07:25 [4292] [INFO] Shutting down: Master
+2020-04-27 20:07:26 [4390] [INFO] initialize routes ...
+2020-04-27 20:07:26 [4390] [INFO] Starting gunicorn 19.7.1
+2020-04-27 20:07:26 [4390] [INFO] Listening at: http://0.0.0.0:5000 (4390)
+2020-04-27 20:07:26 [4390] [INFO] Using worker: threads
+2020-04-27 20:07:26 [4390] [INFO] Server is ready. Spawning workers
+2020-04-27 20:07:26 [4395] [INFO] Booting worker with pid: 4395
+2020-04-27 20:07:26 [4396] [INFO] Booting worker with pid: 4396
+2020-04-27 20:07:26 [4397] [INFO] Booting worker with pid: 4397
+2020-04-27 20:07:26 [4403] [INFO] Booting worker with pid: 4403
+2020-04-27 20:10:24 [4390] [INFO] Handling signal: int
+2020-04-27 20:10:24 [4397] [INFO] Worker exiting (pid: 4397)
+2020-04-27 20:10:24 [4395] [INFO] Worker exiting (pid: 4395)
+2020-04-27 20:10:24 [4396] [INFO] Worker exiting (pid: 4396)
+2020-04-27 20:10:24 [4403] [INFO] Worker exiting (pid: 4403)
+2020-04-27 20:10:24 [4390] [INFO] Shutting down: Master
+2020-05-31 11:09:35 [29114] [INFO] initialize routes ...
+2020-05-31 11:09:35 [29114] [INFO] Starting gunicorn 19.7.1
+2020-05-31 11:09:35 [29114] [INFO] Listening at: http://0.0.0.0:5000 (29114)
+2020-05-31 11:09:35 [29114] [INFO] Using worker: threads
+2020-05-31 11:09:35 [29114] [INFO] Server is ready. Spawning workers
+2020-05-31 11:09:35 [29119] [INFO] Booting worker with pid: 29119
+2020-05-31 11:09:35 [29120] [INFO] Booting worker with pid: 29120
+2020-05-31 11:09:35 [29121] [INFO] Booting worker with pid: 29121
+2020-05-31 11:09:35 [29122] [INFO] Booting worker with pid: 29122
+2020-05-31 11:15:10 [29114] [INFO] Handling signal: winch
+2020-05-31 11:25:38 [29114] [INFO] Handling signal: int
+2020-05-31 11:25:38 [29119] [INFO] Worker exiting (pid: 29119)
+2020-05-31 11:25:38 [29120] [INFO] Worker exiting (pid: 29120)
+2020-05-31 11:25:38 [29121] [INFO] Worker exiting (pid: 29121)
+2020-05-31 11:25:38 [29122] [INFO] Worker exiting (pid: 29122)
+2020-05-31 11:25:39 [29114] [INFO] Shutting down: Master
+2020-05-31 11:25:40 [30229] [INFO] initialize routes ...
+2020-05-31 11:25:41 [30229] [INFO] Starting gunicorn 19.7.1
+2020-05-31 11:25:41 [30229] [INFO] Listening at: http://0.0.0.0:5000 (30229)
+2020-05-31 11:25:41 [30229] [INFO] Using worker: threads
+2020-05-31 11:25:41 [30229] [INFO] Server is ready. Spawning workers
+2020-05-31 11:25:41 [30247] [INFO] Booting worker with pid: 30247
+2020-05-31 11:25:41 [30248] [INFO] Booting worker with pid: 30248
+2020-05-31 11:25:41 [30249] [INFO] Booting worker with pid: 30249
+2020-05-31 11:25:41 [30250] [INFO] Booting worker with pid: 30250
+2020-05-31 11:31:44 [30229] [INFO] Handling signal: int
+2020-05-31 11:31:44 [30248] [INFO] Worker exiting (pid: 30248)
+2020-05-31 11:31:44 [30247] [INFO] Worker exiting (pid: 30247)
+2020-05-31 11:31:44 [30249] [INFO] Worker exiting (pid: 30249)
+2020-05-31 11:31:44 [30229] [INFO] Shutting down: Master
+2020-05-31 11:31:46 [30508] [INFO] initialize routes ...
+2020-05-31 11:31:46 [30508] [INFO] Starting gunicorn 19.7.1
+2020-05-31 11:31:46 [30508] [INFO] Listening at: http://0.0.0.0:5000 (30508)
+2020-05-31 11:31:46 [30508] [INFO] Using worker: threads
+2020-05-31 11:31:46 [30508] [INFO] Server is ready. Spawning workers
+2020-05-31 11:31:46 [30526] [INFO] Booting worker with pid: 30526
+2020-05-31 11:31:46 [30527] [INFO] Booting worker with pid: 30527
+2020-05-31 11:31:46 [30528] [INFO] Booting worker with pid: 30528
+2020-05-31 11:31:46 [30529] [INFO] Booting worker with pid: 30529
+2020-05-31 11:32:25 [30508] [INFO] Handling signal: int
+2020-05-31 11:32:25 [30527] [INFO] Worker exiting (pid: 30527)
+2020-05-31 11:32:25 [30526] [INFO] Worker exiting (pid: 30526)
+2020-05-31 11:32:25 [30529] [INFO] Worker exiting (pid: 30529)
+2020-05-31 11:32:25 [30528] [INFO] Worker exiting (pid: 30528)
+2020-05-31 11:32:26 [30508] [INFO] Shutting down: Master
+2020-05-31 11:32:27 [30620] [INFO] initialize routes ...
+2020-05-31 11:32:27 [30620] [INFO] Starting gunicorn 19.7.1
+2020-05-31 11:32:27 [30620] [INFO] Listening at: http://0.0.0.0:5000 (30620)
+2020-05-31 11:32:27 [30620] [INFO] Using worker: threads
+2020-05-31 11:32:27 [30620] [INFO] Server is ready. Spawning workers
+2020-05-31 11:32:27 [30638] [INFO] Booting worker with pid: 30638
+2020-05-31 11:32:27 [30639] [INFO] Booting worker with pid: 30639
+2020-05-31 11:32:27 [30640] [INFO] Booting worker with pid: 30640
+2020-05-31 11:32:28 [30641] [INFO] Booting worker with pid: 30641
+2020-05-31 11:33:05 [30620] [INFO] Handling signal: int
+2020-05-31 11:33:05 [30640] [INFO] Worker exiting (pid: 30640)
+2020-05-31 11:33:05 [30639] [INFO] Worker exiting (pid: 30639)
+2020-05-31 11:33:05 [30641] [INFO] Worker exiting (pid: 30641)
+2020-05-31 11:33:06 [30620] [INFO] Shutting down: Master
+2020-05-31 11:33:07 [30707] [INFO] initialize routes ...
+2020-05-31 11:33:07 [30707] [INFO] Starting gunicorn 19.7.1
+2020-05-31 11:33:07 [30707] [INFO] Listening at: http://0.0.0.0:5000 (30707)
+2020-05-31 11:33:07 [30707] [INFO] Using worker: threads
+2020-05-31 11:33:07 [30707] [INFO] Server is ready. Spawning workers
+2020-05-31 11:33:07 [30715] [INFO] Booting worker with pid: 30715
+2020-05-31 11:33:07 [30716] [INFO] Booting worker with pid: 30716
+2020-05-31 11:33:07 [30717] [INFO] Booting worker with pid: 30717
+2020-05-31 11:33:07 [30718] [INFO] Booting worker with pid: 30718
+2020-05-31 11:33:31 [30707] [INFO] Handling signal: int
+2020-05-31 11:33:31 [30716] [INFO] Worker exiting (pid: 30716)
+2020-05-31 11:33:31 [30715] [INFO] Worker exiting (pid: 30715)
+2020-05-31 11:33:31 [30718] [INFO] Worker exiting (pid: 30718)
+2020-05-31 11:33:32 [30707] [INFO] Shutting down: Master
+2020-05-31 11:33:33 [30773] [INFO] initialize routes ...
+2020-05-31 11:33:33 [30773] [INFO] Starting gunicorn 19.7.1
+2020-05-31 11:33:33 [30773] [INFO] Listening at: http://0.0.0.0:5000 (30773)
+2020-05-31 11:33:33 [30773] [INFO] Using worker: threads
+2020-05-31 11:33:33 [30773] [INFO] Server is ready. Spawning workers
+2020-05-31 11:33:33 [30781] [INFO] Booting worker with pid: 30781
+2020-05-31 11:33:33 [30782] [INFO] Booting worker with pid: 30782
+2020-05-31 11:33:33 [30787] [INFO] Booting worker with pid: 30787
+2020-05-31 11:33:33 [30794] [INFO] Booting worker with pid: 30794
+2020-05-31 11:34:27 [30773] [INFO] Handling signal: int
+2020-05-31 11:34:28 [30794] [INFO] Worker exiting (pid: 30794)
+2020-05-31 11:34:28 [30782] [INFO] Worker exiting (pid: 30782)
+2020-05-31 11:34:28 [30781] [INFO] Worker exiting (pid: 30781)
+2020-05-31 11:34:28 [30787] [INFO] Worker exiting (pid: 30787)
+2020-05-31 11:34:28 [30773] [INFO] Shutting down: Master
+2020-05-31 11:51:26 [31185] [INFO] initialize routes ...
+2020-05-31 11:51:26 [31185] [INFO] Starting gunicorn 19.7.1
+2020-05-31 11:51:26 [31185] [INFO] Listening at: http://0.0.0.0:5000 (31185)
+2020-05-31 11:51:26 [31185] [INFO] Using worker: threads
+2020-05-31 11:51:26 [31185] [INFO] Server is ready. Spawning workers
+2020-05-31 11:51:26 [31193] [INFO] Booting worker with pid: 31193
+2020-05-31 11:51:26 [31194] [INFO] Booting worker with pid: 31194
+2020-05-31 11:51:26 [31195] [INFO] Booting worker with pid: 31195
+2020-05-31 11:51:26 [31196] [INFO] Booting worker with pid: 31196
+2020-05-31 12:08:28 [31185] [INFO] Handling signal: winch
+2020-05-31 12:08:28 [31185] [INFO] Handling signal: winch
+2020-05-31 12:20:43 [31185] [INFO] Handling signal: winch
+2020-05-31 12:20:44 [31185] [INFO] Handling signal: winch
+2020-05-31 12:25:57 [31185] [INFO] Handling signal: int
+2020-05-31 12:25:57 [31196] [INFO] Worker exiting (pid: 31196)
+2020-05-31 12:25:57 [31194] [INFO] Worker exiting (pid: 31194)
+2020-05-31 12:25:57 [31193] [INFO] Worker exiting (pid: 31193)
+2020-05-31 12:25:57 [31185] [INFO] Shutting down: Master
+2020-05-31 12:25:58 [31751] [INFO] initialize routes ...
+2020-05-31 12:25:59 [31751] [INFO] Starting gunicorn 19.7.1
+2020-05-31 12:25:59 [31751] [INFO] Listening at: http://0.0.0.0:5000 (31751)
+2020-05-31 12:25:59 [31751] [INFO] Using worker: threads
+2020-05-31 12:25:59 [31751] [INFO] Server is ready. Spawning workers
+2020-05-31 12:25:59 [31759] [INFO] Booting worker with pid: 31759
+2020-05-31 12:25:59 [31760] [INFO] Booting worker with pid: 31760
+2020-05-31 12:25:59 [31761] [INFO] Booting worker with pid: 31761
+2020-05-31 12:25:59 [31762] [INFO] Booting worker with pid: 31762
+2020-05-31 12:26:39 [31751] [INFO] Handling signal: int
+2020-05-31 12:26:39 [31759] [INFO] Worker exiting (pid: 31759)
+2020-05-31 12:26:39 [31761] [INFO] Worker exiting (pid: 31761)
+2020-05-31 12:26:39 [31760] [INFO] Worker exiting (pid: 31760)
+2020-05-31 12:26:39 [31762] [INFO] Worker exiting (pid: 31762)
+2020-05-31 12:26:39 [31751] [INFO] Shutting down: Master
+2020-05-31 12:26:41 [31798] [INFO] initialize routes ...
+2020-05-31 12:26:41 [31798] [INFO] Starting gunicorn 19.7.1
+2020-05-31 12:26:41 [31798] [INFO] Listening at: http://0.0.0.0:5000 (31798)
+2020-05-31 12:26:41 [31798] [INFO] Using worker: threads
+2020-05-31 12:26:41 [31798] [INFO] Server is ready. Spawning workers
+2020-05-31 12:26:41 [31806] [INFO] Booting worker with pid: 31806
+2020-05-31 12:26:41 [31807] [INFO] Booting worker with pid: 31807
+2020-05-31 12:26:41 [31808] [INFO] Booting worker with pid: 31808
+2020-05-31 12:26:41 [31809] [INFO] Booting worker with pid: 31809
+2020-05-31 12:28:00 [31798] [INFO] Handling signal: int
+2020-05-31 12:28:00 [31807] [INFO] Worker exiting (pid: 31807)
+2020-05-31 12:28:00 [31806] [INFO] Worker exiting (pid: 31806)
+2020-05-31 12:28:00 [31808] [INFO] Worker exiting (pid: 31808)
+2020-05-31 12:28:00 [31809] [INFO] Worker exiting (pid: 31809)
+2020-05-31 12:28:01 [31798] [INFO] Shutting down: Master
+2020-05-31 12:28:02 [31903] [INFO] initialize routes ...
+2020-05-31 12:28:02 [31903] [INFO] Starting gunicorn 19.7.1
+2020-05-31 12:28:02 [31903] [INFO] Listening at: http://0.0.0.0:5000 (31903)
+2020-05-31 12:28:02 [31903] [INFO] Using worker: threads
+2020-05-31 12:28:02 [31903] [INFO] Server is ready. Spawning workers
+2020-05-31 12:28:02 [31911] [INFO] Booting worker with pid: 31911
+2020-05-31 12:28:02 [31912] [INFO] Booting worker with pid: 31912
+2020-05-31 12:28:02 [31913] [INFO] Booting worker with pid: 31913
+2020-05-31 12:28:02 [31914] [INFO] Booting worker with pid: 31914
+2020-05-31 12:29:00 [31903] [INFO] Handling signal: int
+2020-05-31 12:29:00 [31913] [INFO] Worker exiting (pid: 31913)
+2020-05-31 12:29:00 [31911] [INFO] Worker exiting (pid: 31911)
+2020-05-31 12:29:00 [31914] [INFO] Worker exiting (pid: 31914)
+2020-05-31 12:29:00 [31912] [INFO] Worker exiting (pid: 31912)
+2020-05-31 12:29:01 [31903] [INFO] Shutting down: Master
+2020-05-31 12:29:02 [31964] [INFO] initialize routes ...
+2020-05-31 12:29:03 [31964] [INFO] Starting gunicorn 19.7.1
+2020-05-31 12:29:03 [31964] [INFO] Listening at: http://0.0.0.0:5000 (31964)
+2020-05-31 12:29:03 [31964] [INFO] Using worker: threads
+2020-05-31 12:29:03 [31964] [INFO] Server is ready. Spawning workers
+2020-05-31 12:29:03 [31982] [INFO] Booting worker with pid: 31982
+2020-05-31 12:29:03 [31983] [INFO] Booting worker with pid: 31983
+2020-05-31 12:29:03 [31984] [INFO] Booting worker with pid: 31984
+2020-05-31 12:29:03 [31985] [INFO] Booting worker with pid: 31985
+2020-05-31 12:32:39 [31964] [INFO] Handling signal: int
+2020-05-31 12:32:39 [31983] [INFO] Worker exiting (pid: 31983)
+2020-05-31 12:32:39 [31982] [INFO] Worker exiting (pid: 31982)
+2020-05-31 12:32:39 [31985] [INFO] Worker exiting (pid: 31985)
+2020-05-31 12:32:39 [31984] [INFO] Worker exiting (pid: 31984)
+2020-05-31 12:32:39 [31964] [INFO] Shutting down: Master
+2020-05-31 12:32:41 [32884] [INFO] initialize routes ...
+2020-05-31 12:32:41 [32884] [INFO] Starting gunicorn 19.7.1
+2020-05-31 12:32:41 [32884] [INFO] Listening at: http://0.0.0.0:5000 (32884)
+2020-05-31 12:32:41 [32884] [INFO] Using worker: threads
+2020-05-31 12:32:41 [32884] [INFO] Server is ready. Spawning workers
+2020-05-31 12:32:41 [32902] [INFO] Booting worker with pid: 32902
+2020-05-31 12:32:41 [32903] [INFO] Booting worker with pid: 32903
+2020-05-31 12:32:41 [32904] [INFO] Booting worker with pid: 32904
+2020-05-31 12:32:41 [32905] [INFO] Booting worker with pid: 32905
+2020-05-31 12:33:20 [32884] [INFO] Handling signal: int
+2020-05-31 12:33:20 [32902] [INFO] Worker exiting (pid: 32902)
+2020-05-31 12:33:20 [32905] [INFO] Worker exiting (pid: 32905)
+2020-05-31 12:33:20 [32903] [INFO] Worker exiting (pid: 32903)
+2020-05-31 12:33:20 [32904] [INFO] Worker exiting (pid: 32904)
+2020-05-31 12:33:20 [32884] [INFO] Shutting down: Master
+2020-05-31 12:33:22 [32940] [INFO] initialize routes ...
+2020-05-31 12:33:22 [32940] [INFO] Starting gunicorn 19.7.1
+2020-05-31 12:33:22 [32940] [INFO] Listening at: http://0.0.0.0:5000 (32940)
+2020-05-31 12:33:22 [32940] [INFO] Using worker: threads
+2020-05-31 12:33:22 [32940] [INFO] Server is ready. Spawning workers
+2020-05-31 12:33:22 [32948] [INFO] Booting worker with pid: 32948
+2020-05-31 12:33:22 [32949] [INFO] Booting worker with pid: 32949
+2020-05-31 12:33:22 [32950] [INFO] Booting worker with pid: 32950
+2020-05-31 12:33:22 [32951] [INFO] Booting worker with pid: 32951
+2020-05-31 12:33:27 [32948] [ERROR] _pat_check4tocc_remark :name 'remark' is not defined
+2020-05-31 12:33:54 [32940] [INFO] Handling signal: int
+2020-05-31 12:33:54 [32948] [INFO] Worker exiting (pid: 32948)
+2020-05-31 12:33:54 [32951] [INFO] Worker exiting (pid: 32951)
+2020-05-31 12:33:54 [32950] [INFO] Worker exiting (pid: 32950)
+2020-05-31 12:33:54 [32949] [INFO] Worker exiting (pid: 32949)
+2020-05-31 12:33:55 [32940] [INFO] Shutting down: Master
+2020-05-31 12:33:57 [32995] [INFO] initialize routes ...
+2020-05-31 12:33:58 [32995] [INFO] Starting gunicorn 19.7.1
+2020-05-31 12:33:58 [32995] [INFO] Listening at: http://0.0.0.0:5000 (32995)
+2020-05-31 12:33:58 [32995] [INFO] Using worker: threads
+2020-05-31 12:33:58 [32995] [INFO] Server is ready. Spawning workers
+2020-05-31 12:33:58 [33003] [INFO] Booting worker with pid: 33003
+2020-05-31 12:33:58 [33004] [INFO] Booting worker with pid: 33004
+2020-05-31 12:33:58 [33005] [INFO] Booting worker with pid: 33005
+2020-05-31 12:33:58 [33006] [INFO] Booting worker with pid: 33006
+2020-05-31 12:34:42 [32995] [INFO] Handling signal: int
+2020-05-31 12:34:42 [33006] [INFO] Worker exiting (pid: 33006)
+2020-05-31 12:34:42 [33005] [INFO] Worker exiting (pid: 33005)
+2020-05-31 12:34:42 [32995] [INFO] Shutting down: Master
+2020-05-31 12:34:44 [33061] [INFO] initialize routes ...
+2020-05-31 12:34:44 [33061] [INFO] Starting gunicorn 19.7.1
+2020-05-31 12:34:44 [33061] [INFO] Listening at: http://0.0.0.0:5000 (33061)
+2020-05-31 12:34:44 [33061] [INFO] Using worker: threads
+2020-05-31 12:34:44 [33061] [INFO] Server is ready. Spawning workers
+2020-05-31 12:34:44 [33069] [INFO] Booting worker with pid: 33069
+2020-05-31 12:34:44 [33070] [INFO] Booting worker with pid: 33070
+2020-05-31 12:34:45 [33071] [INFO] Booting worker with pid: 33071
+2020-05-31 12:34:45 [33072] [INFO] Booting worker with pid: 33072
+2020-05-31 12:34:48 [33070] [ERROR] Instance <VendorEntity at 0x7f7130759d30> is not bound to a Session; attribute refresh operation cannot proceed (Background on this error at: http://sqlalche.me/e/bhk3)
+2020-05-31 12:35:55 [33072] [ERROR] Instance <VendorEntity at 0x7f7130759e48> is not bound to a Session; attribute refresh operation cannot proceed (Background on this error at: http://sqlalche.me/e/bhk3)
+2020-05-31 12:36:49 [33069] [ERROR] Instance <VendorEntity at 0x7f712fe9dd30> is not bound to a Session; attribute refresh operation cannot proceed (Background on this error at: http://sqlalche.me/e/bhk3)
+2020-05-31 12:37:01 [33071] [ERROR] Instance <VendorEntity at 0x7f7130758e10> is not bound to a Session; attribute refresh operation cannot proceed (Background on this error at: http://sqlalche.me/e/bhk3)
+2020-05-31 12:37:20 [33061] [INFO] Handling signal: int
+2020-05-31 12:37:20 [33070] [INFO] Worker exiting (pid: 33070)
+2020-05-31 12:37:20 [33072] [INFO] Worker exiting (pid: 33072)
+2020-05-31 12:37:20 [33071] [INFO] Worker exiting (pid: 33071)
+2020-05-31 12:37:20 [33069] [INFO] Worker exiting (pid: 33069)
+2020-05-31 12:37:21 [33061] [INFO] Shutting down: Master
+2020-05-31 12:37:22 [33180] [INFO] initialize routes ...
+2020-05-31 12:37:23 [33180] [INFO] Starting gunicorn 19.7.1
+2020-05-31 12:37:23 [33180] [INFO] Listening at: http://0.0.0.0:5000 (33180)
+2020-05-31 12:37:23 [33180] [INFO] Using worker: threads
+2020-05-31 12:37:23 [33180] [INFO] Server is ready. Spawning workers
+2020-05-31 12:37:23 [33188] [INFO] Booting worker with pid: 33188
+2020-05-31 12:37:23 [33189] [INFO] Booting worker with pid: 33189
+2020-05-31 12:37:23 [33190] [INFO] Booting worker with pid: 33190
+2020-05-31 12:37:23 [33191] [INFO] Booting worker with pid: 33191

@@ -1,0 +1,84 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style type="text/css">
+        .odd {
+                background-color:beige;
+                width:1000px;
+            }
+        .even {
+                background-color:beige;
+                width:1000px;
+        }   
+        .parameters
+        {
+            background-color:black;
+            color: white
+
+        }       
+    </style>
+    <meta charset="UTF-8">
+    <title>API list for KFSYSCC.NAPI</title>
+</head>
+<body>
+<div calss='root'>
+{% for doc in docs %}   
+<div class="{{ loop.cycle('odd', 'even') }}" >
+<div class="doc_title">
+<form action="{{doc.uri}}" method="{{doc.method}}" target="new">
+    <table border="1" cellpadding="5" style="width:1000px; border:1px #5f0f0f solid;text-align:center;">
+        <thead>
+            <tr>
+                <th colspan="5">{{loop.index}}. </th>
+             </tr>            
+            <tr>
+                    <th>說明：</th>
+                    <th colspan="4">{{doc.doc['Description']}}</th>
+            </tr>
+        </thead>    
+        <tbody>
+            <meta charset="UTF-8">
+                <tr>
+                    <td>URI:</td>
+                    <td colspan="4">{{doc.uri}}</td>
+                </tr>
+                <tr>
+                    <td>Methods:</td>
+                    <td colspan="4">{{doc.doc.Methods}}</td>
+                </tr>
+                <tr class="parameters">
+                    <td colspan="5"> 參數：</td>
+                </tr>
+                <thead class="parameters">
+                        <th>&nbsp;</th>
+                        <th>名稱</th>
+                        <th>必填</th>
+                        <th>說明</th>
+                        <th>輸入</th>
+                    </thead>  
+                {% for param in doc.doc.Parameters %}
+                <tr class="parameters">
+                    <td>{{loop.index}} .</td>
+                    <td>{{param.Name}}</td>
+                    <td>{{param.Required}}</td>
+                    <td>{{param.Description}}</td>
+                    <td><input type="text" name="{{param.Name}}"></td>
+                </tr>
+                {% endfor %} 
+                <tr class="parameters">
+                        <td colspan="5"><input type="submit" value="測試"></td>
+                 </tr>     
+        </tbody>
+    </table>
+</form>
+</div>
+</div>
+</br></br></br>
+{% endfor %}
+
+</div>
+
+</body>
+</html>
+
