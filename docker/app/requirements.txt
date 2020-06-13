@@ -8,7 +8,7 @@ ConcurrentLogHandler==0.9.1
 cx-Oracle==6.1
 dicttoxml==1.7.4
 et-xmlfile==1.0.1
-Flask==0.12.2
+Flask==1.0
 Flask-Cors==3.0.3
 Flask-Excel==0.0.7
 Flask-PyMongo==2.2.0
