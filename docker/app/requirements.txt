@@ -52,7 +52,7 @@ six==1.11.0
 SQLAlchemy==1.2.2
 SQLAlchemy-Utils==0.33.6
 texttable==1.5.0
-urllib3==1.22
+urllib3==1.24.2
 Werkzeug==0.14.1
 wrapt==1.10.11
 xlrd==1.1.0
